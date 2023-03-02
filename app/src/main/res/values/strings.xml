@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chess timer</string>
+    <string name="time">time (min)</string>
+    <string name="adding">adding (sec)</string>
+    <string name="start">start</string>
+    <string name="button_pause">pause</string>
+</resources>
